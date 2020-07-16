@@ -1,21 +1,21 @@
 # AitheonTestTask
 
-###Classes √
+### Classes √
 
-###Interfaces √ [src/interfaces]()
+### Interfaces √ [src/interfaces]()
 
-###Controllers √ [src/controllers]()
+### Controllers √ [src/controllers]()
 
-###Services √ [src/services]()
+### Services √ [src/services]()
 
-###DevDependencies √ [pacakage.json]()
+### DevDependencies √ [pacakage.json]()
 
-###Typescript used √ [typescript]()
+### Typescript used √ [typescript]()
 
-###Error handling √ [src/middlewares/errorHandler]()
+### Error handling √ [src/middlewares/errorHandler]()
 
-###Project can be build and run properly (npm start) √ ["npm start"]()	
+### Project can be build and run properly (npm start) √ ["npm start"]()	
 
-##Additionl
+## Additionl
 
-###Docker image [Dockerfile]()
+### Docker image [Dockerfile]()
